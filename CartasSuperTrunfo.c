@@ -26,7 +26,6 @@
     scanf("%d", &pontosTuristicos);
 
    //saída de dados
-
    printf("\n=== Dados da Carta Cadastrada ===\n");
    printf("Codigo da carta: %s\n", codigo);
    printf("Populacao: %d habitantes\n", populacao);
